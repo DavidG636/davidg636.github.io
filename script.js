@@ -1,10 +1,4 @@
 $(function() {
-    $('.watchLaterThumb').hover(function(){ //Open on hover
-        $('#overlay').css('display', 'block');
-    },
-    function(){ //Close when not hovered
-        $('#overlay').css('display', 'none');
-    });
 
     $('.gitPicWatchLater').click(function () {
       window.open('https://github.com/DavidG636/Youtube-Watch-Later-Player', '_blank');
