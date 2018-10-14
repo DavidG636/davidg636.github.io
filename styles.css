@@ -42,12 +42,12 @@ p {font-size: 16px;}
   border-radius: 100%;
 }
 
-.watchLater {
+.watchLater, .case {
   width:330px;
   height:330px;
 }
 
-.watchLaterThumb {
+.thumb {
   width:330px;
   height:330px;
 }
