@@ -15,4 +15,12 @@ $(function() {
     $('.webPicCase').click(function () {
       window.open('https://davidg636.github.io/Case/', '_blank');
     });
+
+    $('.gitPicParagraphUtilities').click(function () {
+      window.open('https://github.com/DavidG636/Paragraph-Utilities', '_blank');
+    });
+
+    $('.webPicParagraphUtilities').click(function () {
+      window.open('https://davidg636.github.io/Paragraph-Utilities/', '_blank');
+    });
 });
