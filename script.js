@@ -30,4 +30,12 @@ $(function() {
   $('.webPicLowercase').click(function() {
     window.open('https://davidg636.github.io/Lowercase/', '_blank');
   });
+
+  $('.gitPicLeapYear').click(function() {
+    window.open('https://github.com/DavidG636/leapYear', '_blank');
+  });
+
+  $('.webPicLeapYear').click(function() {
+    window.open('https://davidg636.github.io/leapYear/', '_blank');
+  });
 });
