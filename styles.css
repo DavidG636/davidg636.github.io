@@ -63,7 +63,8 @@ p {
 .previous, .next {
   position: absolute;
   width: 10vw;
-  top: -400px
+  height: 10vh;
+  top: -100px
 }
 
 .thumb {
