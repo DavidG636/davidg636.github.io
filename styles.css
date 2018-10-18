@@ -55,7 +55,7 @@ p {
   border-radius: 100%;
 }
 
-.watchLater, .case, .paragraphUtilities {
+.watchLater, .case, .paragraphUtilities, .lowercase {
   width: 300px;
   height: 300px;
 }
