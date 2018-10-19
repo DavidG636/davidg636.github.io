@@ -38,4 +38,12 @@ $(function() {
   $('.webPicLeapYear').click(function() {
     window.open('https://davidg636.github.io/leapYear/', '_blank');
   });
+
+  $('.gitPicHelloName').click(function() {
+    window.open('https://github.com/DavidG636/helloName', '_blank');
+  });
+
+  $('.filePicHelloName').click(function() {
+    window.open('https://github.com/DavidG636/helloName/blob/master/helloName.c', '_blank');
+  });
 });

@@ -55,7 +55,7 @@ p {
   border-radius: 100%;
 }
 
-.watchLater, .case, .paragraphUtilities, .lowercase, .leapYear {
+.watchLater, .case, .paragraphUtilities, .lowercase, .leapYear, .helloName {
   width: 300px;
   height: 300px;
 }
@@ -172,7 +172,7 @@ p {
   visibility: visible;
 }
 
-.gitPic, .webPic {
+.gitPic, .webPic, .filePic {
   width: 100px;
   height: 100px;
   border-radius: 100%;
