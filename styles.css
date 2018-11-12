@@ -47,6 +47,10 @@ p {
   letter-spacing: 5px;
 }
 
+.typewriter > .txt {
+  border-right: 0.2rem solid #777;
+}
+
 .navbar-nav li a:hover {
   color: #1abc9c !important;
 }
