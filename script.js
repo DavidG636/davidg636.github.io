@@ -55,6 +55,10 @@ $(function() {
     window.open('https://davidg636.github.io/Primality-Checker/', '_blank');
   });
 
+  $('.profilePic').click(function() {
+    window.open('https://github.com/DavidG636', '_blank');
+  });
+
   class Typewriter {
     constructor(element, words, wait = 3000) {
       this.element = element;
