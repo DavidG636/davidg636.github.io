@@ -57,6 +57,7 @@ p {
 
 .profilePic {
   border-radius: 100%;
+  cursor:pointer;
 }
 
 .watchLater, .case, .paragraphUtilities, .lowercase, .leapYear, .helloName, .primalityChecker {
