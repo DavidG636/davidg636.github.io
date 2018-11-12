@@ -59,7 +59,7 @@ p {
   border-radius: 100%;
 }
 
-.watchLater, .case, .paragraphUtilities, .lowercase, .leapYear, .helloName {
+.watchLater, .case, .paragraphUtilities, .lowercase, .leapYear, .helloName, .primalityChecker {
   width: 300px;
   height: 300px;
 }

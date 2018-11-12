@@ -47,6 +47,14 @@ $(function() {
     window.open('https://github.com/DavidG636/helloName/blob/master/helloName.c', '_blank');
   });
 
+  $('.gitPicPrimalityChecker').click(function() {
+    window.open('https://github.com/DavidG636/Primality-Checker', '_blank');
+  });
+
+  $('.webPicPrimalityChecker').click(function() {
+    window.open('https://davidg636.github.io/Primality-Checker/', '_blank');
+  });
+
   class Typewriter {
     constructor(element, words, wait = 3000) {
       this.element = element;
