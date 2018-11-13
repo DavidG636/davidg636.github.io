@@ -63,6 +63,14 @@ $(function() {
     window.open('https://github.com/DavidG636', '_blank');
   });
 
+  $('.gitPicPaceSeidenbergStemCamp2017').click(function() {
+    window.open('https://github.com/DavidG636/Pace-Seidenberg-Stem-Camp-2017', '_blank');
+  });
+
+  $('.filePicPaceSeidenbergStemCamp2017').click(function() {
+    window.open('https://github.com/DavidG636/Pace-Seidenberg-Stem-Camp-2017/blob/master/script.py', '_blank');
+  });
+
   class Typewriter {
     constructor(element, words, wait = 3000) {
       this.element = element;
