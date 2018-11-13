@@ -1,7 +1,7 @@
 body {
   font: 20px Montserrat, sans-serif;
   line-height: 1.8;
-  color: #f5f6f7;
+  color: #8c8c8c;
 }
 
 p {
@@ -14,22 +14,22 @@ p {
 
 .bg-1 {
   background-color: #d4d4dc;
-  color: #ffffff;
+  color: #8c8c8c;
 }
 
 .bg-2 {
   background-color: #393f4d;
-  color: #ffffff;
+  color: #8c8c8c;
 }
 
 .bg-3 {
   background-color: #2f2f2f;
-  color: #ffffff;
+  color: #8c8c8c;
 }
 
 .bg-4 {
   background-color: #1d1e22;
-  color: #ffffff;
+  color: #8c8c8c;
 }
 
 .container-fluid {
@@ -47,7 +47,7 @@ p {
   letter-spacing: 5px;
 }
 
-.typewriter > .txt {
+.typewriter>.txt {
   border-right: 0.2rem solid #777;
 }
 
@@ -57,7 +57,7 @@ p {
 
 .profilePic {
   border-radius: 100%;
-  cursor:pointer;
+  cursor: pointer;
 }
 
 .watchLater, .case, .paragraphUtilities, .lowercase, .leapYear, .helloName, .primalityChecker, .paceSeidenbergStemCamp2017 {
@@ -189,5 +189,5 @@ p {
 
 .email:hover {
   text-decoration: underline;
-  cursor:default;
+  cursor: default;
 }
