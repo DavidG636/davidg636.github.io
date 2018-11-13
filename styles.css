@@ -186,3 +186,8 @@ p {
 .carousel-indicators {
   bottom: -50px;
 }
+
+.email:hover {
+  text-decoration: underline;
+  cursor:default;
+}
