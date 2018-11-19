@@ -168,7 +168,6 @@ p {
   text-align: center;
   border-radius: 6px;
   padding: 5px 0;
-  /* Position the tooltip */
   position: absolute;
   z-index: 1;
 }
@@ -190,4 +189,12 @@ p {
 .email:hover {
   text-decoration: underline;
   cursor: default;
+}
+
+.otherAccountProfilePic {
+  border-radius: 100%;
+}
+
+.otherGithubLink, .otherGithubLink:hover {
+  color: #8c8c8c;
 }
