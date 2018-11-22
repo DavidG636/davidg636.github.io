@@ -1,0 +1,27 @@
+{
+  "name": "davidg636.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "predeploy":"npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidG636/davidg636.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidG636/davidg636.github.io/issues"
+  },
+  "homepage": "https://davidg737.github.io",
+  "devDependencies": {
+    "gh-pages":"^1.0.0"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
