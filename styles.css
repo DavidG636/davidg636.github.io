@@ -60,7 +60,7 @@ p {
   cursor: pointer;
 }
 
-.watchLater, .case, .paragraphUtilities, .lowercase, .leapYear, .helloName, .primalityChecker, .paceSeidenbergStemCamp2017 {
+.watchLater, .case, .paragraphUtilities, .lowercase, .leapYear, .helloName, .primalityChecker, .paceSeidenbergStemCamp2017, .projectAutomation {
   width: 300px;
   height: 300px;
 }
